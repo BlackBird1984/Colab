@@ -10,6 +10,16 @@ Klicke auf das Badge, um das Notebook direkt in Google Colab zu öffnen:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BlackBird1984/Colab/blob/main/team_brain_starter.ipynb)
 
+### 💎 Enthaltene 0-Cent Spitzenmodelle (NVIDIA A100 80GB VRAM):
+| Modul | Modell / Engine | Kategorie | Spezialgebiet |
+|---|---|---|---|
+| 🧠 **Modul 1** | **Google Gemini 3.1 Pro (Thinking) & 3.8 Flash** | Deep Reasoning & Speed | Offizielles `google-genai` SDK, § 203 StGB Business-Architektur |
+| 🗣️ **Modul 2** | **Kokoro-82M & F5-TTS** | Neurale Voice Synthesis | Hyperrealistische deutsche & englische Stimmen (24kHz Studioqualität) |
+| 🎨 **Modul 3** | **FLUX.1 [schnell / dev]** | 4K Fotorealismus | State-of-the-Art Kanzlei- & UI-Visuals in ~3 Sekunden |
+| 🎙️ **Modul 4** | **Whisper Large-v3 Turbo** | Speech-to-Text | Audio- & Mandantentranskription in Echtzeit |
+| 📜 **Modul 5** | **Mistral Large 2 & Codestral** | Recht, Notariat & Code | DSGVO, § 203 StGB, Notariats-Compliance & Backend-Entwicklung |
+| 🎬 **Modul 6** | **Wan 2.1** | Open-Weight Video (1080p) | Kinoreife 1080p Text-to-Video & Image-to-Video Generierung |
+
 ---
 
 ## 🔗 Verbindung zwischen Google Colab und GitHub
